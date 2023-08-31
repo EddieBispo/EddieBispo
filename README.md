@@ -1,6 +1,6 @@
 # Olá, eu sou Eduardo  &#128075;&#127998;
 
-Olá! Meu nome é Eduardo Bispo, tenho 24 anos, estou cursando ADS e sou fascinando por tecnologia.
+Olá! Meu nome é Eduardo Bispo, estou cursando ADS e sou fascinando por tecnologia.
 ## Conecte-se Comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/eduardo-bispo-santos/) [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/eddubispo/)
 
